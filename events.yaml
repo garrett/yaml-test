@@ -593,13 +593,7 @@
     start: October 04, 2012 15:00 PDT
     end: October 04, 2012 16:00 PDT
     description: |-
-      In modern development environments, it’s a must to include testing of Web
-      applications as a standard part of the development lifecycle. Such tests can
-      also be used as acceptance criteria in enterprise projects. Although full
-      automation is possible, it is considered to be very expensive. As a result,
-      in projects where testing is included as part of the project plan, it is
-      also often the first requirement cut when the project schedule begins to
-      slip. Learn more in this session.
+      In modern development environments, it’s a must to include testing of Web applications as a standard part of the development lifecycle. Such tests can also be used as acceptance criteria in enterprise projects. Although full automation is possible, it is considered to be very expensive. As a result, in projects where testing is included as part of the project plan, it is also often the first requirement cut when the project schedule begins to slip. Learn more in this session.
 
       For more information, including speaker bios, [visit the conference
       website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=7622&tc).
