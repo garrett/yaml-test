@@ -1,0 +1,2391 @@
+---
+2012:
+
+- name: Open Hardware Summit
+  location: New York, New York, US
+  start: September 27, 2012 12:00 UTC
+  end: 
+  summary: |-
+    The Fedora Project is a proud sponsor of the Open Hardware Summit. Our very
+    own Ruth Suehle, Fedora Marketing Manager, and Tom "Spot" Callaway, Fedora
+    Engineering Manager, will both be attending the event. Please introduce
+    yourself to themthey just might have some cool Fedora goodies. For more
+    information, [visit the conference website](http://summit.oshwa.org/).
+
+- name: PuppetConf
+  location: San Francisco, California, US
+  start: September 28, 2012 12:00 PDT
+  timezone: PST
+  talks:
+
+  - summary: Package management and Puppet
+    speaker: Sam Kottler
+    start: September 28, 2012 11:45 PDT
+    end: September 28, 2012 12:30 PDT
+    description: |-
+      This talk will cover the topic of managing packages across several
+      environments and staging. We'll cover topics including the package resources
+      included in Puppet core, how to hack on the Yum and Deb providers, and how
+      to extend Puppet via custom resources and basic principals of idempotent
+      operations. Some knowledge of the package management and Puppet resources is
+      ideal for users attending the talk. We'll build on that knowledge and move
+      into more advanced topics like custom providers and resources.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://puppetconf.com/speakers/).
+
+  - summary: Foreman and friends
+    speaker: Ohad Levy
+    start: September 28, 2012 15:45 PDT
+    end: September 28, 2012 16:20 PDT
+    description: |-
+      For more information, including speaker bio, [visit the conference
+      website](http://puppetconf.com/speakers/).
+
+- name: PyCon India
+  location: Dharmaram Vidya Kshetram, Bangalore, India
+  start: September 28, 2012 12:00 IST
+  end: September 30, 2012 12:00 IST
+  timezone: IST
+  talks:
+
+  - summary: Document Your Code
+    speaker: Kushal Das
+    start: September 29, 2012 20:00 IST
+    end: September 29, 2012 21:00 IST
+    description: |-
+      Writing documentation can lead to better code.
+
+      In this talk, Kushal will start from why and will go into details of how to
+      document Python codebases. Topics in this talk will include:
+
+      - What to write What all details a developer should at least add
+      - reStructuredText a quick review of rst with examples
+      - Sphinx details of sphinx with example
+
+      - http://readthedocs.org/ How to use readthedocs for your project
+
+      For more information, including speaker bio, [visit the conference
+      website](http://in.pycon.org/2012/funnel/pyconindia2012/8-document-your-code).
+
+  - summary: Django Templates for Web Designers
+    speaker: Shreyank Gupta
+    start: September 30, 2012 15:30 IST
+    end: September 30, 2012 16:30 IST
+    description: |-
+      Django is a high-level Python based web framework that encourages rapid
+      development and clean, pragmatic design.
+
+      Django comes with it's very own templating layer, which is not merely python
+      embedded into HTML, but it is a dumb python-like DSL which, by design, keeps
+      programming logic out of the templates and keeps the presentation layer
+      clean.
+
+      In this talk, Shreyank will introduce the Django Template Language and cover
+      most of the useful tags and filters. He will also explore how to write
+      custom tags and filters. For more information, including speaker bio, [visit
+      the conference
+      website](http://in.pycon.org/2012/funnel/pyconindia2012/14-django-templates-for-web-designers).
+
+- name: Ohio LinuxFest
+  location: Columbus, Ohio, US
+  start: September 29, 2012 12:00 EDT
+  timezone: EDT
+  talks:
+
+  - summary: 'Aeolus: Deploying Across Clouds the Open Source Way'
+    speaker: Mo Morsi
+    start: September 29, 2012 15:00 EDT
+    end: September 29, 2012 15:50 EDT
+    description: |-
+      Aeolus is a next-generation cloud computing API allowing system
+      administrators to deploy, monitor, and manipulate instances running on any
+      number of cloud providers in a consistent manner. Using the free and open
+      toolset end users are able to access and manage cloud resources without
+      having to worry about vendor lockin and/or changes in cloud provider terms
+      of service and pricing. In this session we will demonstrate how to use the
+      Aeolus utilities to deploy instances to various cloud providers, monitor
+      running services, and take and migrate snapshots of Linux systems across
+      disparate providers.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://ohiolinux.org/speakers#MORSI).
+
+  - summary: Highly Available Applications
+    speaker: Brian Likosar
+    start: September 29, 2012 17:00 EDT
+    end: September 29, 2012 17:50 EDT
+    description: |-
+      This talk will describe what he considers the "holy grail of availability" -
+      running highly available applications inside of highly available virtual
+      machines. This is what most customers have asked for, and now we have the
+      technology to accomplish this goal. It will outline the requirements, best
+      practices, and experiences of trying to accomplish this once daunting task.
+      Technology will concentrate on ovirt.org/KVM and Pacemaker - but will also
+      touch on Red Hat Cluster Suite, RHEV/KVM, and VMWare.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://ohiolinux.org/speakers#LIKOSAR).
+
+- name: World Maker Faire
+  location: New York, New York, US
+  start: September 29, 2012 12:00 UTC
+  end: September 30, 2012 12:00 UTC
+  summary: |-
+    The Fedora Project will be showcasing programming for open source hardware
+    using Fedora at World Maker Faire 2012. Visit Ruth Suehle, Fedora Marketing
+    Manager, and Tom "Spot" Callaway, Fedora Engineering Manager, at the Fedora
+    exhibit to try out the the Raspberry Pi Photo Booth (#8919). You can get
+    your photo taken with Tux, the penguin mascot of Linux, all from a photo
+    booth built on a Raspberry Pi, Fedora 17, and a Python script controlling a
+    DSLR camera.
+
+    For more information, [visit the conference
+    website](http://makerfaire.com/pub/e/8919).
+
+- name: GOTO Aarhus
+  location: Aarhus, Denmark
+  start: October 01, 2012 12:00 CEST
+  timezone: CEST
+  talks:
+
+  - summary: Making Enterprise Java Development Hurt Less
+    speaker: Romain Pelisse
+    start: October 01, 2012 11:30 CEST
+    end: October 01, 2012 12:30 CEST
+    description: |-
+      Whether you like it or loath it, Java the language and Java the platform
+      have set the standard for enterprise computing for over a decade and don't
+      look like giving up that top spot for a while yet. However, we continue to
+      hear complaints about the complexity of developing applications with Java
+      and it is no secret that J2EE wasn't always the easiest beast to conquer.
+      Various frameworks sprang up over the years to try to simplify the lives of
+      Java enterprise developers, such as Seam and Spring, and with the advent of
+      Java Enterprise Edition 6 (EE6) and changes in the JVM to allow non-Java
+      languages to be supported, we are starting to see a renaissance. In this
+      presentation we will look at some of the things that have happened in the
+      last few years that have already increased the productivity of enterprise
+      Java development, including key features like CDI in EE6 and changes in the
+      Java Community Process. We'll illustrate some of this with the new release
+      of the JBoss Application Server, AS7, which is a full EE6 compliant
+      application server yet is fast, modular and lightweight. We'll also look at
+      some other advancement that are happening in open source that will also help
+      and which may make their way into the standards.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://gotocon.com/aarhus-2012/presentation/Making%20Enterprise%20Java%20Development%20Hurt%20Less).
+
+- name: JavaOne
+  location: San Francisco, California, US
+  start: October 01, 2012 12:00 PDT
+  end: October 04, 2012 12:00 PDT
+  summary: |-
+    In addition to all the great talks in the main conference program, make sure
+    to visit the JBoss team in Booth #5201 to hear even more technical talks in
+    the JBoss mini-theater. For a full schedule of talks and speaker
+    biographies, [visit the conference
+    website](http://www.jboss.org/events/javaone/sessions.html).
+  timezone: PST
+  talks:
+
+  - summary: Best Practices for Cloud Identity in a Java EE–Enabled PaaS
+    speaker: Anil Saldhana
+    start: October 01, 2012 09:30 PDT
+    end: October 01, 2012 10:30 PDT
+    description: |-
+      This session discusses best practices for choosing identity services for
+      applications deployed in a Java EE–enabled PaaS such as Red Hat’s OpenShift
+      platform. It evaluates the various available identity standards, such as
+      OpenID, OAuth, and SAML. You will hear a discussion of how to choose the
+      best identity standards in a community and enterprise setup. The
+      presentation ends with a look at JSR 351, the new Java Identity JSR
+      currently active in the JCP.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6213&tclass=popup).
+
+  - summary: 'Today’s Rapid Java EE Development: Live Coding from Scratch to Deployment'
+    speaker: Aslak Kntusen and Andrew Rubinger
+    start: October 01, 2012 09:30 PDT
+    end: October 01, 2012 10:30 PDT
+    description: |-
+      The myth of Java EE as a cumbersome platform is easily dispelled in this
+      session, which aims to create a working application, from a blank repository
+      to a live cloud deployment, in real time. It \* Covers tools that bootstrap
+      project creation, freeing you from mucking around with Maven POM boilerplate
+      \* Generates a domain model and reverse-engineers JPA entities from it \*
+      Automatically creates the scaffolding for tests that run in a real Java EE
+      container, launched from the IDE \* Pushes it all to production on a public
+      site
+
+      Using a variety of projects from the JBoss Community adhering to and
+      building upon open standards, this presentation can create real enterprise
+      apps in the time it takes other sessions to click through some slides. Let’s
+      get building!
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5458&tclass=popup).
+
+  - summary: 'The Arquillian Universe: A Tour Around the Astrophysics Lab'
+    speaker: Aslak Kntusen and Andrew Rubinger
+    start: October 01, 2012 14:00 PDT
+    end: October 01, 2012 15:00 PDT
+    description: |-
+      Arquillian is a revolutionary testing platform for Java and the JVM that
+      enables developers to easily create and execute integration and functional
+      tests for Java middleware, from Java EE and beyond. One of Arquillian’s
+      strong points is its extensibility. Arquillian was built with the ability to
+      change its default behavior via its powerful extension model as well as to
+      grow past its original programming to take on the challenges of tomorrow.
+      This presentation guides you through the Arquillian extensions by
+      demonstrating how specific extensions solve common problematic testing
+      scenarios faced by enterprise developers. You will get a overview of what is
+      available and possible today as well as what is brewing in the community.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6918&tclass=popup).
+
+  - summary: Dependability Challenges for Java Middleware
+    speaker: Mark Little
+    start: October 01, 2012 16:00 PDT
+    end: October 02, 2012 12:00 PDT
+    description: |-
+      Key concepts of reliable distributed computing developed during the ’80s and
+      ’90s, such as transactions and replication, have influenced Java EE.
+      However, the way enterprises are using networked computing for businesses is
+      undergoing rapid changes as new ways of constructing distributed execution
+      environments from various resources—ranging from computational, storage, and
+      network to application-level services provided by globally distributed
+      service providers—are emerging. In light of these developments, this session
+      examines what core concepts, components, and techniques will be required in
+      the Java middleware of the future.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4385&tclass=popup).
+
+  - summary: OpenJDK Penrose Project BOF
+    speaker: David Bosschaert
+    start: October 01, 2012 17:30 PDT
+    end: October 01, 2012 18:15 PDT
+    description: |-
+      Project Penrose was established at OpenJDK in February 2012 to ensure
+      seamless integration between Java 8 modularity and OSGi. Come to this
+      session to hear how OSGi differs from Java modularity and how Penrose has
+      brought developers together to ensure that these module systems evolve to
+      protect your existing code and enable future interoperability. The
+      presentation takes a peek under the covers to see how OSGi can be optimized
+      for running on a modular JRE and describes how you can design your
+      application to get the best of both worlds.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10608).
+
+  - summary: Cleaner APIs, Cleaner UIs with Visage
+    speaker: William Siqueira (with Stephen Chin, Oracle)
+    start: October 01, 2012 18:30 PDT
+    end: October 01, 2012 19:15 PDT
+    description: |-
+      Visage is a JVM language designed specifically for UI development, with a
+      special syntax for hierarchically describing UIs, binding data, and behavior
+      and representing UI-specific concepts such as animation, layout, and styles.
+      It also is a fully featured language with a full compiler tool chain, static
+      compilation to JVM bytecodes, and IDE plug-ins. This session demonstrates
+      how to use the Visage language to build UIs for JavaFX 2, Vaadin, and other
+      Java-based UI platforms. Find out how you can take control of your UI
+      development by writing cleaner, more maintainable UI code with the Visage
+      language in your existing Java projects.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5455&tclass=popup).
+
+  - summary: JSR 347, Data Grids, and NoSQL
+    speaker: Manik Surtani
+    start: October 01, 2012 19:30 PDT
+    end: October 01, 2012 20:15 PDT
+    description: |-
+      This BOF is a brainstorming session on JSR 347 to determine where data grids
+      and NoSQL begin; define overlaps; and discuss specific features such as
+      querying, map/reduce, and eventual consistency in JSR 347.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5866&tclass=popup).
+
+  - summary: 'Thermostat: An Open Source Instrumentation Tool for the HotSpot JVM'
+    speaker: Roman Kennke and Mario Torre
+    start: October 01, 2012 20:30 PDT
+    end: October 01, 2012 21:15 PDT
+    description: |-
+      Thermostat is a new instrumentation tool for Oracle’s HotSpot JVM that is
+      both scalable and extensible and provides an out-of-the-box solution for
+      monitoring, diagnosing, profiling, and controlling the JVM. Thermostat’s
+      main goal is to be a distributed instrumentation tool, and Thermostat aims
+      to make it easy to monitor the Java VM over a range of possible scenarios
+      and use cases, from simple local applications to complex cloud-oriented PaaS
+      stacks. This presentation describes Red Hat’s extensible model for
+      collecting JVM and system monitoring data side by side, and attendees will
+      learn about the features that make Thermostat unique. It also describes Red
+      Hat’s Eclipse plug-in and standalone Swing and command-line clients.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5112&tclass=popup).
+
+  - summary: OpenJDK + Open Source Enhancements
+    speaker: Deepak Bhole
+    start: October 01, 2012 21:30 PDT
+    end: October 01, 2012 22:15 PDT
+    description: |-
+      OpenJDK has enjoyed growing popularity over the last four years. A large
+      amount of focus has gone into developing OpenJDK itself, but relatively
+      little effort has gone into enhancing the surrounding ecosystem. This
+      session first covers the open source efforts to increase OpenJDK adoption
+      over the past four years. It also includes an open discussion to engage the
+      community to increase involvement and further improve upon what has been
+      done so far. Topics covered include the efforts that have gone into and the
+      benefits of IcedTea, IcedTea-Web, and Thermostat (a new project). If
+      attendees are working on an open source project with similar goals, they are
+      welcome to give a brief synopsis of it.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=3578&tclass=popup).
+
+  - summary: Forge New Ground in Rapid Enterprise Software Development
+    speaker: Lincoln Baxter III (with Paul Bakker, Luminius Technologies)
+    start: October 02, 2012 14:00 PDT
+    end: October 02, 2012 15:00 PDT
+    description: |-
+      How many times have you wanted to start a new project in Java EE but
+      struggled to put all the pieces together? Has the Maven archetype syntax
+      left you scratching your head? Everyone else is talking about Rails, Grails,
+      and Roo, and you’re left thinking, “I wish it were that easy for me.” Well,
+      there’s good news, as this session illustrates: you don’t have to leave Java
+      EE just to find a developer tool that makes starting out simple. JBoss Forge
+      is heating up Java EE and is ready to work it into a full-fledged project.
+      It’s also an incremental enhancement tool that enables you to take existing
+      Java EE projects and safely work new functionality in. Forge comprehends
+      your entire project and can make intelligent decisions on how and what to
+      change.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=3254&tclass=popup).
+
+  - summary: 'The Contexts and Dependency Injection API: Next Steps for the Platform
+      and Future Directions'
+    speaker: Pete Muir
+    start: October 02, 2012 16:00 PDT
+    end: October 03, 2012 12:00 PDT
+    description: |-
+      In this session, Oracle and Red Hat discuss the future direction of one of
+      Java EE’s hottest new APIs: Contexts and Dependency Injection. This once
+      proprietary feature, now standardized, is completely extensible and is
+      evolving fast in the Java EE community. Learn what’s planned for Java EE 7
+      and beyond: improvements in unit testing support, package scanning,
+      decorators/interceptors, eventing improvements, and much more.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10658&tclass=popup).
+
+  - summary: I’ve Got 99 Languages, but Java Ain’t One
+    speaker: Thomas Enebo and Charles Nutter
+    start: October 02, 2012 19:30 PDT
+    end: October 02, 2012 20:15 PDT
+    description: |-
+      If you’re having Java problems, this session’s speakers feel bad for you.
+      You know the popular JVM languages, and maybe you’ve even tried them. But
+      are you a black belt in Judo? Tried a hot cup of Ceylon? Looked in the
+      Mirah? Welcomed back Kotlin? There are more than 250 languages on the JVM,
+      and the handful you know is just the beginning. This session takes a rapid,
+      entertaining look at all the lesser-known JVM languages. All of them? Yes,
+      all of them. The presentation spends more time on languages in active use
+      and then quicken the pace in a survey of as many JVM languages as possible.
+      If you’ve programmed in it, there’s a JVM version of it, and you’ll see it
+      in this session.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6682&tclass=popup).
+
+  - summary: OpenJDK and the Common VM Interface Project
+    speaker: Andrew Hughes (with Neil Richards, IBM & Mikael Vidstedt, Oracle)
+    start: October 02, 2012 20:30 PDT
+    end: October 02, 2012 21:15 PDT
+    description: |-
+      This session covers the changes happening in the OpenJDK Common VM Interface
+      (CVMI) project as the community members build on the original work of Andrew
+      Hughes. With the major VM teams working together to document, clarify, and
+      update the interface between the VM and the class libraries, this BOF is an
+      opportunity for everyone interested to meet some of the main participants
+      and learn more about the history, plus current and future changes. Extending
+      the reach of this project to encompass more virtual machine implementations
+      is not a short-term exercise.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4034&tclass=popup).
+
+  - summary: 'Bean Validation 1.1: What’s New Under the Hood'
+    speaker: Emmanuel Bernard
+    start: October 03, 2012 09:30 PDT
+    end: October 03, 2012 10:30 PDT
+    description: |-
+      Bean Validation standardizes constraint declarations and validation for the
+      Java platform. Bean Validation 1.0 has been widely adopted and seamlessly
+      integrated with some other JSRs (such as JSF and JPA) and the rich Java
+      framework environment at large. This session explores what Release 1.1
+      brings to the table and what new features you can expect for your Java EE 7
+      applications. It discusses in an example-driven fashion method-level
+      validation, Contexts and Dependency Injection (CDI) integration, and many
+      more new features and improvements. You will leave the presentation knowing
+      about all the new validation features at your disposal for future
+      applications.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4006&tclass=popup).
+
+  - summary: 'Java Everywhere: Ready for Mobile and Cloud'
+    speaker: Mark Little
+    start: October 03, 2012 12:30 PDT
+    end: October 03, 2012 13:30 PDT
+    description: |-
+      The traditional role of middleware in the data center has been challenged to
+      expand and meet the ubiquitous computing demands that are becoming more
+      prevalent. The way applications are built, deployed, integrated, and managed
+      must accommodate the rapidly evolving mobile and cloud paradigms without
+      sacrificing security or performance. Open standards and more agile
+      stewardship of the Java Community Process will enable developers,
+      architects, and IT executives increase the return on their existing IT
+      investment and spur innovation in next-generation application environments.
+      Learn more in this session.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4367&tclass=popup).
+
+  - summary: Polyglot for Dummies
+    speaker: Charles Nutter and Thomas Enebo
+    start: October 03, 2012 12:30 PDT
+    end: October 03, 2012 13:30 PDT
+    description: |-
+      Why are people writing applications in languages other than Java? Can I
+      really be productive with another language? Which language should I choose?
+      Why would I use more than one? This session survey several popular JVM
+      languages and explores how they can help you build better applications. It
+      shows how to integrate multiple languages in a single app and walks through
+      the speakers’ favorite features and libraries. Java, Ruby, Scala, Clojure,
+      and Groovy ... all work harmoniously on the polyglot JVM.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=6575&tclass=popup).
+
+  - summary: Making Apps Scale with CDI and Data Grids
+    speaker: Manik Surtani
+    start: October 03, 2012 11:00 PDT
+    end: October 03, 2012 12:00 PDT
+    description: |-
+      This session walks through a live demo of building a Website with CDI,
+      clustering it with Java EE clustering capabilities, and then introducing a
+      data grid into the mix to dramatically boost performance and load-handling
+      capacity.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5875&tclass=popup).
+
+  - summary: 'Continuous Enterprise Development: Case Studies in Java EE Integration
+      Testing'
+    speaker: Aslak Kntusen and Andrew Rubinger
+    start: October 03, 2012 12:30 PDT
+    end: October 03, 2012 13:30 PDT
+    description: |-
+      This highly technical session examines solutions for easing the testing of
+      some of the more complex use cases within Java EE. Each example is backed by
+      a runnable test (publicly available to participants), and the presentation
+      covers automated continuous development of
+
+      - The Web user interface (via Selenium)
+      - Persistent data and JPA
+      - Transactional boundaries
+      - Cloud-based deployments
+      - RESTful endpoints
+      - More
+
+      It showcases various techniques outlined in the book Continuous Enterprise
+      Development in Java, forthcoming from O’Reilly Media, and is delivered by
+      the authors. Expect a lot of proof through open source demos. You'll see the
+      presenters exercise the features of any compliant Java EE 6 runtime, using
+      the Arquillian platform.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5312&tclass=popup).
+
+  - summary: 'Taming the Spaghetti: Rich Web Applications with Errai'
+    speaker: Jonathan Fuerth and Christian Sadilek
+    start: October 04, 2012 13:30 PDT
+    end: October 04, 2012 14:30 PDT
+    description: |-
+      In today’s Web applications, the complexity of the code written for the
+      browser rivals the complexity of the server-side code. Handwritten
+      JavaScript isn’t cutting it anymore. Errai brings a proven server-side
+      programming model to the browser. In this session, members of the Errai team
+      demonstrate how to build rich Web applications the toolable, typesafe way
+      and without boilerplate. Errai offers a concise programming model for
+      building next-generation Web applications by combining the best of two
+      worlds: JavaScript and Java. It enables powerful client-server communication
+      and brings Java enterprise standards to the browser by leveraging the Google
+      Web Toolkit compiler.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=2607&tclass=popup).
+
+  - summary: The Polyglot Java VM and Java Middleware
+    speaker: Robert McWhirter (with John Rose, Oracle)
+    start: October 04, 2012 13:30 PDT
+    end: October 04, 2012 14:30 PDT
+    description: |-
+      In this session, Red Hat and Oracle discuss the impact of polyglot
+      programming from their own unique perspectives, examining non-Java languages
+      that utilize Oracle’s Java HotSpot VM. You’ll hear a discussion of topics
+      relating to Ruby, Lisp, and Clojure and the intersection of other languages
+      where they may touch upon individual frameworks and projects, and you’ll get
+      perspectives on JavaScript via the Nashorn Project, an upcoming JavaScript
+      engine, developed fully in Java.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10657&tclass=popup).
+
+  - summary: 'JavaEE.Next(): Java EE 7, 8, and Beyond'
+    speaker: Mark Little (with Ian Robinson, IBM, Scott Ferguson, Caucho Technology
+      and Cameron Purdy, Oracle)
+    start: October 03, 2012 17:30 PDT
+    end: October 03, 2012 18:30 PDT
+    description: |-
+      In this session, hear from a distinguished panel of industry and open source
+      luminaries regarding where they believe the Java EE community is headed,
+      starting with Java EE 7. The focus of Java EE 7 and 8 is mostly on the
+      cloud, specifically aiming to bring platform as a service (PaaS) providers
+      and application developers together so that portable applications can be
+      deployed on any cloud infrastructure and reap all its benefits in terms of
+      scalability, elasticity, multitenancy, and so on. Most importantly, Java EE
+      will leverage the modularization work in the underlying Java SE platform.
+      Java EE will, of course, also update itself for trends such as HTML5,
+      caching, NoSQL, ployglot programming, map/reduce, JSON, REST, and
+      improvements to existing core APIs.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10656&tclass=popup).
+
+  - summary: Cover Your Web and Mobile Applications with Integration Tests from Scratch
+    speaker: Karel Piwko
+    start: October 04, 2012 15:00 PDT
+    end: October 05, 2012 12:00 PDT
+    description: |-
+      Using a Web application is easy. Testing it should be easy as well.
+      Arquillian, a revolutionary Java enterprise testing platform—together with
+      its extensions Arquillian Drone and Arquillian Android—enables that. In this
+      tutorial, you will learn how to integrate existing testing frameworks such
+      as JUnit with the Web testing tool Selenium. It also leverages the Maven
+      infrastructure of a project. Whatever technology you are using to create Web
+      pages, wherever the application is deployed, and whatever browser—including
+      mobile ones—you are using, configuring a test environment is a matter of
+      minutes. Do not spend time with configuration; skip right to writing Web
+      tests.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=5039&tclass=popup).
+
+  - summary: Testing JSF Applications with Arquillian and Selenium
+    speaker: Lincoln Baxter III and Brian Leathem
+    start: October 04, 2012 15:00 PDT
+    end: October 04, 2012 16:00 PDT
+    description: |-
+      In modern development environments, it’s a must to include testing of Web
+      applications as a standard part of the development lifecycle. Such tests can
+      also be used as acceptance criteria in enterprise projects. Although full
+      automation is possible, it is considered to be very expensive. As a result,
+      in projects where testing is included as part of the project plan, it is
+      also often the first requirement cut when the project schedule begins to
+      slip. Learn more in this session.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=7622&tc).
+
+  - summary: Front-to-Back Security for Mobile, HTML5, and Java EE Applications
+    speaker: Marius Bogoevici and Jay Balunas
+    start: October 04, 2012 15:00 PDT
+    end: October 04, 2012 16:00 PDT
+    description: |-
+      Enterprise security has never been more important or complex than it is
+      today. Mobile devices, new client technologies, and cloud-based services are
+      just some of the recent additions. Handling JAX-RS endpoints, spotty
+      connectivity, local storage support, constrained devices, and other land
+      mines can be more than just a challenge. These also seem to be among the
+      first areas glossed over by most projects. Why? Because dealing with them is
+      hard! In this session, developers will get an understanding of these issues
+      through examples and real-world use cases. It includes specific guidance for
+      handling them and discusses how to work around current technical challenges
+      and handle some special cases exclusive to mobile applications.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=7231&tclass=popup).
+
+  - summary: Introduction to Ceylon
+    speaker: Emmanuel Bernard and Stephane Epardaud
+    start: October 04, 2012 16:30 PDT
+    end: October 04, 2012 17:30 PDT
+    description: |-
+      Ceylon is a new programming language designed to execute on the JVM. This
+      session’s speakers are fans of Java and its ecosystem, but they think the
+      language and class libraries, designed more than 15 years ago, are no longer
+      the best foundation for a range of today’s business computing problems, so
+      they have proposed a new language that includes many improvements to Java
+      while sticking to the Java philosophy that people love, which made it so
+      popular. This session provides an introduction to Ceylon and shows you its
+      main features and the ongoing progress of the compiler, IDE, and tools as
+      well as the community behind it.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=4025&tclass=popup).
+
+  - summary: 'Migrate from Spring to Java EE 6: Approaches and Techniques for Spring
+      Developers'
+    speaker: Marius Bogoevici
+    start: October 04, 2012 16:30 PDT
+    end: October 04, 2012 17:30 PDT
+    description: |-
+      Are you curious about Java EE 6? If you left the Java EE world in the
+      Release 1.4 and 1.5 era, you might be missing out on where it’s evolved to
+      today in Release 1.6. If you are a Spring expert already, you will need the
+      proper tools and frameworks to help you adapt what you learned from Spring
+      to become a successful Java EE 6 developer. This demo-driven presentation
+      shows you some of the critical tools that can make your migration experience
+      easy and intuitive.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://oracleus.activeevents.com/connect/sessionDetail.ww?SESSION_ID=10659&tclass=popup).
+
+- name: Grace Hopper
+  location: Baltimore, Maryland, US
+  start: October 05, 2012 12:00 EDT
+  timezone: EST
+  talks:
+
+  - summary: 'First Experiences in Open Source Software: How to get involved'
+    speaker: Leslie Hawthorn
+    start: October 04, 2012 21:30 EDT
+    end: October 04, 2012 22:30 EDT
+    description: |-
+      This panel will provide people with four different perspectives on getting
+      started in open source projects. Panelists represent a range of industry and
+      academic backgrounds, a diversity of contribution types, and a variety of
+      projects of all sizes, ages, and types. We’ll relate our own “what we wish
+      we’d known” beginner stories in the hopes of inspiring others to start on
+      the road to becoming open source contributors.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://gracehopper.org/2012/event/first-experiences-in-open-source-software-how-to-get-involved/).
+
+      You can also meet Leslie and many other members of open source projects at
+      the Free and Open Source Software Projects booth on the exhibit hall floor
+      in the Career Fair. For more information, [visit the conference
+      website](http://gracehopper.org/2012/conference/career-fair/).
+
+      You'll also have the opportunity to meet Jim Jaglieski, Senior Consulting
+      Software Engineer under the office of Red Hat's CTO, at the conference.
+
+- name: GNOME Boston Summit
+  location: Boston, Massachusetts, US
+  start: October 06, 2012 12:00 UTC
+  end: October 08, 2012 12:00 UTC
+  summary: |-
+    The Boston Summit is a three-day hackfest for GNOME developers and
+    contributors. It is not primarily aimed at users or new contributors, but if
+    you want to jump right into the deep end, it's a fantastic way to meet
+    everyone and get involved. Unlike traditional conferences, the Boston Summit
+    is all about getting developers together and getting things done. While
+    there are some non-hacking sessions, they are geared heavily towards
+    many-to-many, interactive discussion and planning, rather than one-to-many
+    presentations. However, unlike previous years, there are plans to run in
+    parallel a more newbie-oriented set of sessions, such as a basic Linux/GNOME
+    "installfest" and help learning about GNOME application technologies.
+
+    Many Red Hat employees who are contributors to GNOME will be in attendance.
+    For more information, including an attendee list, [visit the conference
+    website](https://live.gnome.org/Boston2012).
+
+- name: Open World Forum
+  location: Paris, France
+  start: October 11, 2012 12:00 CEST
+  end: October 12, 2012 12:00 CEST
+  timezone: CEST
+  talks:
+
+  - summary: 'Community Summit: Open Source software communities in the age of cloud
+      computing'
+    speaker: Leslie Hawthorn
+    start: October 11, 2012 13:30 CEST
+    end: October 11, 2012 17:30 CEST
+    description: |-
+      For the fifth year running, the Community Summit addresses the key issues
+      impacting the growth and management of open source communities. This year,
+      free and open source software communities leaders at the Summit will look at
+      the challenges posed by the emergence of cloud computing to their
+      communities and will ponder on new vendor lock-in strategies, the
+      repositioning of software, the necessary linkage with open data, etc.
+
+      For more information, including speaker bios, [visit the conference
+      website](http://openworldforum2012.sched.org/event/28c06f2b113eba923d5a1dce52a2de84?iframe=no&w=0&sidebar=yes&bg=no).
+
+  - summary: FOSS for Helping People
+    speaker: Leslie Hawthorn and Dave Neary
+    start: October 12, 2012 13:00 CEST
+    end: October 12, 2012 16:00 CEST
+    description: |-
+      For more information, including speaker bios, [visit the conference
+      website](http://openworldforum2012.sched.org/event/40399c281fb25d8f97854b27cf26edba?iframe=no&w=0&sidebar=yes&bg=no).
+
+- name: China Linux Kernel Developer Conference
+  location: Beijing, China
+  start: October 13, 2012 12:00 UTC
+  timezone: ''
+  talks:
+
+  - summary: Open Source, Linux and Standards
+    speaker: Daniel Veillard
+    start: October 13, 2012 12:00 UTC
+    end: October 13, 2012 12:00 UTC
+    description: |-
+      This talk will focus on the complex but important relationships that exist
+      between various standards and related open source projects, the Linux kernel
+      being a good example. It will show how both sides can contribute efficiently
+      toward a common goal of interoperability and large deployments. It will also
+      expose some of the common problems that can bring such cooperation to a
+      halt.
+
+      For more information, [visit the conference
+      website](http://www.ckernel.org/news/).
+
+- name: JAX London
+  location: London, United Kingdon
+  start: October 17, 2012 12:00 BST
+  timezone: BST
+  talks:
+
+  - summary: 'HTML5 alchemy: the secrets of mixing JavaScript and Java EE'
+    speaker: Matthias Wessendorf
+    start: October 17, 2012 11:30 BST
+    end: October 17, 2012 12:20 BST
+    description: |-
+      A deep dive on creating mobile-ready, cloud-enabled, HTML5 applications
+      based on Java EE and modern JavaScript. You will learn how to balance and
+      combine the enterprise Java programming model, based on APIs such as CDI,
+      JAX-RS and EJB 3.1, with JavaScript libraries like jQuery Mobile, Backbone,
+      Require and Underscore, while taking advantage of the ease of deployment and
+      elasticity of the cloud.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://entwickler.com/konferenzen/ext_scripts/v2/php/sessions-popup.php?module=jaxlondon2012&id=22708).
+
+- name: Isle of Open Innovation
+  location: Vittoriosa, Malta
+  start: October 18, 2012 12:00 CEST
+  timezone: CEST
+  talks:
+
+  - summary: What is Open Source and How Does It Work?
+    speaker: Jim Jaglieski
+    start: October 18, 2012 10:00 CEST
+    end: October 18, 2012 10:45 CEST
+    description: |-
+      Further details coming soon. In the interim, for more information, including
+      speaker bio, [visit the conference
+      website](http://www.isleofopensource.com/index.php/program).
+
+- name: EclipseCon Europe
+  location: Ludwigsburg, Germany
+  start: October 24, 2012 12:00 CEST
+  end: October 25, 2012 12:00 CEST
+  timezone: CEST
+  talks:
+
+  - summary: 'Tycho adoption: Lessons learned, tips and tricks from the 1st line of
+      front'
+    speaker: Krzysztof Daniel and Mickael Istria
+    start: October 24, 2012 10:30 CEST
+    end: October 24, 2012 11:30 CEST
+    description: |-
+      Common Build Infrastracture (CBI) is an landscape-changing initiative to
+      make builds easy for everyone. The technologies that are used in that build
+      system are relatively young in the Eclipse environment, however, they'd been
+      already adopted in a number of not-only-eclipse projects.
+
+      Eclipse Platform to Maven/Tycho conversion is the most difficult example of
+      adoption, mostly due to the fact that its build system was created in
+      ancient days of Eclipse creation, and it hardly can be mapped to current
+      maven concepts.
+
+      In this talk, Mickael and Krzysztof will present their experiences that they
+      had gathered while working on CBI and JBoss Tools (and a few others) build
+      projects, which include:
+
+      - the general concept of Tycho/Maven
+      - common signs that you'll have problems migrating to Tycho
+      - incompatibilities between Tycho and PDEBuild and how to deal with them
+      - common problems
+
+      For more information, including speaker bios, [visit the conference
+      website](http://www.eclipsecon.org/europe2012/sessions/tycho-adoption-hints-based-examples-mylyn-and-platform-cbi).
+
+  - summary: OSGi and Cloud Computing
+    speaker: David Bosschaert
+    start: October 24, 2012 13:30 CEST
+    end: October 24, 2012 14:00 CEST
+    description: |-
+      OSGi and Cloud Computing go very well together. Previously held OSGi Cloud
+      Workshops have clearly shown that many people are using or planning to use
+      OSGi in the Cloud. This session focuses on a demonstration of how OSGi can
+      really help in a Cloud environment, taking advantage of OSGi's dynamism and
+      services model.
+
+      The demo whill show how you can use OSGi to dynamically deploy an
+      application in the cloud and use OSGi cloud discovery to hook the various
+      entities together, each one potentially running in a different cloud node.
+      The demo shows concepts such as dynamic provisioning, dynamic discovery,
+      dynamic scaling and dynamic failover all from the OSGi programming model. I
+      will also talk about cloud-related specification work relating to what is
+      being demonstrated that is currently an active topic in the OSGi Enterprise
+      Expert Group.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.eclipsecon.org/europe2012/sessions/osgi-and-cloud-computing).
+
+  - summary: A journey with Target Platforms
+    speaker: Mickael Istria
+    start: October 24, 2012 17:00 CEST
+    end: October 24, 2012 17:30 CEST
+    description: |-
+      Target Platform are a powerful concept for Eclipse Plugin/RCP development.
+      They are basically specification of how to resolve dependencies. But behind
+      this very technical definition, target-platforms are a very elegant way to
+      resolve some common use-cases at both dev-time and build-time. In this
+      presentation, Mickael will highlight how you can profit from
+      target-platforms by reminding concepts, typical use-cases and sharing some
+      tips & tricks to stop fighting with dependency management, and turn it into
+      your dedicated friend.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.eclipsecon.org/europe2012/sessions/journey-target-platforms).
+
+  - summary: Forging a Bond Between Eclipse and the Command-line
+    speaker: Koen Aers
+    start: October 25, 2012 11:30 CEST
+    end: October 25, 2012 12:00 CEST
+    description: |-
+      It is common knowledge that some developers swear by using command-line
+      tools to do their job. Typing quickly, the use of tabbed completion and
+      running scripts are key ingredients to their productivity. Nevertheless a
+      fancy IDE such as Eclipse also attracts many developers. These love to rely
+      on key benefits such as incremental building, form based editing, outline
+      views and navigating the workspace. Well, we have some excellent news for
+      developers that want the best of both worlds.
+
+      JBoss Forge is a command-line driven open source tool that enables users to
+      adopt an incremental approach to their daily Java development. It lets you
+      take an existing Java project and safely add in new functionality. Whether
+      you want to set up JSF, use persistence or create REST endpoints, it all
+      becomes a real breeze. Forge was created with extensibility in mind and is
+      completely technology agnostic.
+
+      The good news that was mentioned above is that a number of Eclipse plugins
+      bring this power right to the heart of your favorite IDE. Just think about a
+      command-line tool nicely integrated in an Eclipse view. Now imagine that the
+      commmands issued at this command-line tool are immediately reflected with
+      changes and useful feedback in your workbench... Doesn't that sound cool?
+
+      In this talk, Koen will show this powerful integration between IDE and
+      command-line at work. He will highlight many of the benefits as well as some
+      of the more advanced possibilities of this approach. Come to this talk if
+      you want to know how to take advantage of all this power.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.eclipsecon.org/europe2012/sessions/forging-bond-between-eclipse-and-command-line).
+
+  - summary: Kick your Java EE development up a notch with m2e-wtp
+    speaker: Fred Bricon
+    start: October 25, 2012 11:30 CEST
+    end: October 25, 2012 12:00 CEST
+    description: |-
+      The m2e-wtp project is a new project incubating at the Eclipse foundation.
+      Built upon the popular m2eclipse-wtp plugin, it aims at providing a tight
+      integration between the Eclipse’s Web Tools Platform and m2e, the Maven
+      Integration plugin for Eclipse.
+
+      In this heavily demo-focused presentation, Fred will show you how you can
+      bring powerful Maven capabilities to your legacy Eclipse Java EE
+      applications, detailing 3 features m2e-wtp adds over your typical WTP
+      installation:
+
+      - Convert your Eclipse projects to Maven : taking advantage of the new
+      Eclipse to Maven Conversion API added in m2e 1.1, m2e-wtp translates your
+      WTP project settings (Web, EJB, EAR ...) to their equivalent maven plugin
+      configurations in a jiffy.
+      - web resource filtering : lets you dynamically change the content of your
+      web resources (web pages, css files, deployment descriptors...) using
+      placeholders much like a templating engine. This allows you, for instance,
+      to enable or disable debug parameters in your web.xml depending on some
+      specific Maven profiles.
+      - war overlays : ever needed to share the same web resources (images, css
+      ...) across different web applications? The Maven war overlay mechanism
+      allows you to define these common files in one location (be it a workspace
+      project or a war archive) and let other web applications consume them
+      without the need to duplicate them into their source control system
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.eclipsecon.org/europe2012/sessions/kick-your-java-ee-development-notch-m2e-wtp).
+
+- name: Red Hat Developer Day
+  location: London, United Kingdom
+  start: November 01, 2012 12:00 UTC
+  end: 
+  summary: |-
+    Red Hat Developer Day will feature information on Red Hat upstream projects
+    including GlusterFS and OpenShift Origin and more. Take a look at the full
+    event agenda and register at
+    [http://www.redhat.com/developerday/](http://www.redhat.com/developerday/).
+
+- name: LinuxCon Europe
+  location: Barcelona, Spain
+  start: November 05, 2012 12:00 CET
+  end: November 06, 2012 12:00 CET
+  timezone: CET
+  talks:
+
+  - summary: 'Virtual Machine snapshots: Overview and Illustration of Different Types
+      of Snapshots with libvirt/QEMU'
+    speaker: Kashyap Chamarthy
+    start: November 05, 2012 11:05 CET
+    end: November 05, 2012 11:50 CET
+    description: |-
+      This session discusses different types of virtual machine snapshots with
+      QCOW2 disk images. A snapshot is a view of a virtual machine (its OS and all
+      its applications) at a given point in time, giving an ability to revert to a
+      known sane state in case of a failure. The session also includes a brief
+      demonstration of the different types of snapshots under discussion (Internal
+      snapshots, External snapshots, System Checkpoint, Online/Offline snapshots)
+      and their use-cases. Audience would include Linux system administrators
+      familiar with KVM virtualization. The take-away would be an overall
+      understanding of different snapshotting capabilities using QCOW2 disk
+      images, and some practical examples which could be applied while managing
+      virtual machines and snapshots. Finally, a glimpse of upcoming developments
+      in this area.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/945531e083005958c49b71c5b1659a45#).
+
+  - summary: Assembling a Kernel Test Grid with Autotest
+    speaker: Lucas Meneghel Rodrigues
+    start: November 05, 2012 11:05 CET
+    end: November 05, 2012 11:50 CET
+    description: |-
+      Autotest (autotest.github.com) is a framework for fully automated kernel
+      testing, although it works fine for userspace bits as well. In this
+      presentation, we'll discuss the strategies and techniques you can use to
+      deploy a fully automated test farm, with periodic or per-commit test jobs,
+      with bare metal machine provisioning, console control and VM testing. For
+      embedded farms we need a different approach, which will be discussed as
+      well. The presentation consists in slides and a demo using virtual machines
+      on the presenter's laptop.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/108748d6d07a6e7d59e6578784b15b8c?iframe=no&w=900&sidebar=yes&bg=no#).
+
+  - summary: FreeIPA Tutorial
+    speaker: Jakub Hrozek
+    start: November 05, 2012 13:20 CET
+    end: November 05, 2012 15:00 CET
+    description: |-
+      The tutorial will provide a hands-on introduction to FreeIPA - an integrated
+      identity management solution. The FreeIPA project brings together several
+      industry-proven technologies such as LDAP or Kerberos. Easy-to-use
+      installation scripts and both command line and browser-based interfaces make
+      previously complex task of rolling out enterprise identity management easy,
+      scalable and accessible.
+
+      We'll demonstrate the installation, setup and several tasks such as user
+      management or establishing a trust setup with an Active Directory domain.
+      We'll also show the advantages of using the SSSD for client machines, like
+      the ability to access identity servers offline.
+
+      The tutorial is mainly targeted at system administrators. Rudimentary
+      knowledge of technologies such as LDAP is advantageous, but not required. A
+      VM image based on Fedora 18 will be available for the attendance to
+      experiment easily.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/14b1c3a8e77c5f9b55165e49627d1085?iframe=no&w=900&sidebar=yes&bg=no#).
+
+  - summary: 'SSD Devices & Caching: fscache, Block Cache or Device Driver'
+    speaker: Ric Wheeler
+    start: November 05, 2012 14:15 CET
+    end: November 05, 2012 15:00 CET
+    description: |-
+      SSD devices promise a lot - very high random IO rates, high performance
+      streaming IO and different failure modes than traditional storage. SSD
+      devices are still considerably more expensive than traditional storage, so
+      multiple projects have worked to use SSD's as a cache for cheaper and denser
+      traditional storage.
+
+      This panel will have developers from several SSD caching projects - file
+      system, device mapper and device driver level caching. For more information,
+      including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/3a6ba8be6a2a8e67e17844088c5abc92?iframe=no&w=900&sidebar=yes&bg=no#).
+
+  - summary: Keynote Address
+    speaker: Brian Stevens
+    start: November 05, 2012 16:45 CET
+    end: November 05, 2012 17:05 CET
+    description: |-
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/acb5fe2a19b6208467711a923458ea70?iframe=no&w=900&sidebar=yes&bg=no#).
+
+  - summary: 'systemd: The First Two Years'
+    speaker: Lennart Poettering
+    start: November 06, 2012 11:05 CET
+    end: November 06, 2012 11:50 CET
+    description: |-
+      Two years ago we announced the systemd project and began integrating it into
+      the distributions. Since then it acquired a lively and large community, has
+      been adopted by a variety of commercial and community distributions, and has
+      gained wide acceptance in the desktop, server and embedded world. Today, you
+      can buy devices and appliances built on systemd, and systemd is the basis of
+      industry standards. It is time to look back on the first two years of
+      systemd, analyze what we achieved, where our successes are and where our
+      weaknesses. It's time to discuss where we want to take the project next and
+      what to focus on.
+
+      This talk is intended for all technical folks, administrators and developers
+      alike, as well as everybody else who is interested in the systemd project,
+      its strengths and the next steps.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/743269a371f281fed5544c308bc96ca8?iframe=no&w=900&sidebar=yes&bg=no).
+
+  - summary: 'Coding for Fun: Silly Projects Keep You Sane!'
+    speaker: John W. Linville
+    start: November 06, 2012 14:15 CET
+    end: November 06, 2012 15:00 CET
+    description: |-
+      When I was a kid, the computer was my favorite toy. I would spend hours of
+      time coding just for the fun of it. This love of computers led to a career
+      in software development, which has been greatly rewarding! But, once
+      anything becomes a job it is difficult to stay in love with it even when
+      your job is open source.
+
+      So, find a hobby? Do something else! That's great, but for me nothing has
+      the same mental reward as a good computer project. It just sucks to
+      constantly be at the mercy of other people's demands... My solution has been
+      simple: retro-computing! I don't just use the computers of my youth, I make
+      them do interesting new things! It's crazy, of course...but I love it! Maybe
+      hearing about my experiences could be useful for you to find your way to
+      avoid burnout? You may not want to dig-out an 8-bit micro for your next
+      project, but maybe a robot, or an arduino, or...
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/a5f37f59afc50f0bee1bf125e2b2719f?iframe=no&w=900&sidebar=yes&bg=no#).
+
+  - summary: Introduction to oVirt Virtualization Management Platform
+    speaker: Itamar Heim
+    start: November 06, 2012 14:15 CET
+    end: November 06, 2012 15:10 CET
+    description: |-
+      The oVirt Project is an open virtualization project providing a feature-rich
+      server and desktop virtualization management platform with advanced
+      capabilities for hosts and guests, including high availability, live
+      migration, storage management, system scheduler, and more.
+
+      oVirt provides an integration point for several open source virtualization
+      technologies, including kvm, libvirt, spice and oVirt node. oVirt was
+      launched in November 2011 as a fully open source project, based on assets
+      from Red Hat Enterprise Virtualization Manager platform. The project has an
+      open governance model, and initial board has members from IBM, Canonical,
+      Cisco, Netapp, Red Hat and SUSE.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/cc2dffd2f91f4a32bc7ae58a24f70366#).
+
+- name: Embedded Linux Conference Europe
+  location: Barcelona, Spain
+  start: November 06, 2012 12:00 CET
+  timezone: CET
+  talks:
+
+  - summary: Understanding PREEMPT_RT (The Real-Time Patch)
+    speaker: Steven Rostedt
+    start: November 06, 2012 11:05 CET
+    end: November 06, 2012 11:50 CET
+    description: |-
+      The real-time patch (which provides CONFIG_PREEMPT_RT), has been around
+      since 2005. Started by Ingo Molnar and maintained by Thomas Gleixner and
+      several others, it has grown from a hobby RTOS into a very serious
+      contender. Several distributions (Red Hat, SuSE, Debian, Ubuntu) supply a
+      kernel version that includes this patch. The embedded world has started
+      adding the -rt patch to their own devices that they ship. But do the
+      embedded developers understand what the -rt patch supplies? Programming for
+      real time, and especially when writing kernel code requires special
+      knowledge to avoid real time traps. This talk will explain what the real
+      time patch provides and special programming tips that will ensure embedded
+      developers will get the best from their devices.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://elceurope2012.sched.org/event/9095b51ac5c22f8ad5fc536c578e567a#).
+
+- name: KVM Forum + oVirt Workshop
+  location: Barcelona, Spain
+  start: November 07, 2012 12:00 CET
+  end: November 09, 2012 12:00 CET
+  summary: |-
+    KVM is an industry leading open source hypervisor that provides an ideal
+    platform for datacenter virtualization, virtual desktop infrastructure, and
+    cloud computing. Once again, it's time to bring together the community of
+    developers and users that define the KVM ecosystem for our annual technical
+    conference. We will discuss the current state of affairs and plan for the
+    future of KVM, its surrounding infrastructure, and management tools. So mark
+    your calendar and join us in advancing KVM.
+
+    We are excited to announce that the oVirt Workshop will be held in
+    conjunction with KVM Forum this year. The oVirt Project is an open
+    virtualization project for anyone who cares about Linux-based KVM
+    virtualization. Providing a feature-rich server virtualization management
+    system with advanced capabilities for hosts and guests, including high
+    availability, live migration, storage management, system scheduler, and
+    more. By open we mean open source & open governance, done right.
+
+    During this workshop you’ll learn about the technical background and
+    direction of the oVirt project. You’ll meet the developers, and have an
+    opportunity to see and dive into the code right away. The workshop is open
+    to all who want to use, get involved with, or learn about the comprehensive
+    open virtualization management platform, oVirt. The sessions cover the
+    technical projects details, governance, getting involved, usage, and much
+    more. If you have any interest in an Open Virtualization Management
+    platform, this workshop is for you!
+  timezone: CET
+  talks:
+
+  - summary: Keynote Address
+    speaker: Avi Kivity
+    start: November 07, 2012 09:00 CET
+    end: November 07, 2012 09:15 CET
+    description: |-
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/5e4a333ab0aa0fee99d32c95fe7b8c68?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: oVirt Node Architecture Design and Roadmap
+    speaker: Mike Burns
+    start: November 07, 2012 11:15 CET
+    end: November 07, 2012 12:00 CET
+    description: |-
+      This talk will dive into the architecture and design of oVirt Node with
+      discussions of it’s major features. We’ll look at the different aspects of
+      the image including deployment methods, extensibility, and advantages and
+      disadvantages of this packaging model. We’ll also explore some of the major
+      recent additions, like plugin support and Stateless operation, as well as
+      some of the features that are on our current roadmap.
+
+      This talk is primarily an overview. It's geared toward people looking to
+      deploy, use, or extend ovirt-node.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/12f385ae28f7977b4613517d4ce646f3?iframe=no&w=750&sidebar=yes&bg=no#.UIlwj1uXd_s).
+
+  - summary: KVM and Microsoft Hyper-V Enlightenments
+    speaker: Vadim Rozenfeld
+    start: November 07, 2012 13:00 CET
+    end: November 07, 2012 13:40 CET
+    description: |-
+      Enlightenments are enhancements made to the operating system to help reduce
+      the cost of certain operating system functions. Presently, all recent
+      Microsoft OSes support Hyper-V enlightened I/O and hypervisor aware kernels.
+      Number of Hyper-V Enlightenments, like virtual APIC, spinlocks and invariant
+      TSC can be implemented in KVM.
+
+      This presentation should be interesting to a wide audience, but mostly
+      targeted to developers.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/ec50c29e26a79e815b3655888a55d529?iframe=no&w=750&sidebar=yes&bg=no#.UIlwxluXd_s).
+
+  - summary: QOM Vadis? Taking Objects to CPU and Beyond
+    speaker: Andreas Färber
+    start: November 07, 2012 13:00 CET
+    end: November 07, 2012 13:40 CET
+    description: |-
+      Anthony Liguori has contributed the QEMU Object Model (QOM) as new
+      infrastructure for device modeling and inspection at the beginning of this
+      year. Highlight some of the changes for device authors this requires and
+      provide an outlook of what new possibilities this offers over former qdev.
+      Focus of this talk will be my ongoing CPU remodeling - vision, achievements
+      for v1.1 and v1.2, next goals.
+
+      I assume that Anthony will say some words about QOM in his key note. This
+      presentation will not cover the why/how but rather the how-to and where-to
+      for device authors in the status quo as well as some DOs and DON'Ts
+      concerning CPU\*State for all contributors. Depending on upstream progress
+      this talk might also cover a brief overview of differences between softmmu
+      and linux-user wrt CPU. I don't plan to go into x86 CPU hotplug details,
+      that could well be covered by Igor/Eduardo in a separate talk.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/ecd1bdf873b0049fe992d23d0d1221cf?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: oVirt High-Level Architecture & Roadmap
+    speaker: '- Itamar Heim'
+    start: November 07, 2012 13:00 CET
+    end: November 07, 2012 13:40 CET
+    description: |-
+      The session will review high level architecture and interactions of oVirt
+      components, and planned future roadmap.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/d09f4c7247d8266296ee849df888dd22?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'Deep Dive Features: Network'
+    speaker: Livnat Peer
+    start: November 07, 2012 13:40 CET
+    end: November 07, 2012 14:20 CET
+    description: |-
+      Deep dive to recently added network features in oVirt (setup networks, jumbo
+      frames, bridgless networks, port mirroring, sync network, optional networks,
+      hot plug nic, etc.).
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/9da9fcf0843644efabcde85543b5cc4d?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'Deep Dive Features: Storage'
+    speaker: Andrew Cathrow
+    start: November 07, 2012 14:20 CET
+    end: November 07, 2012 15:00 CET
+    description: |-
+      Deep dive to recently added storage features in ovirt (hot plug disk, live
+      snapshot, storage live migration, shared disk, posix domains, nfs v4 and
+      domain options, floating disks, direct lun, multiple storage domains, etc.).
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/884f6d6f751907cf3b6f0a1fe9d72785?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'Live Migration: Even faster, Now With a Dedicated Thread!'
+    speaker: Orit Wasserman
+    start: November 07, 2012 14:30 CET
+    end: November 07, 2012 15:00 CET
+    description: |-
+      In this session we cover two aspects of live migration:
+
+      - We discuss the work of moving the execution of outgoing live migration to
+      a separate dedicated thread in QEMU.
+      - Using a separate thread for live migration reduces contention with the IO
+      thread and vcpus which results in higher throughput and more reliable
+      downtime.
+
+      We analyze Live Migration performance state:
+
+      - Performance on very large guests and the issues we encounter with such a
+      guest. This discussion will include convergence and actual downtime
+      (compared to user configured downtime).
+      - Live migration effects on the running guest (downtime and performance
+      impact on the guest workload)
+      - Resource consumption (network bandwidth and CPU usage)
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/bd85e13226f05d127cdd256e0626008c?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Qemu USB Status Report 2012
+    speaker: Gerd Hoffman
+    start: November 07, 2012 15:30 CET
+    end: November 07, 2012 16:00 CET
+    description: |-
+      This talk gives an overview on the state of the qemu usb subsystem. What
+      happened last year? What are the plans for the future? Where do we stand in
+      terms of USB 3.0 support?
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/ff493b72d2b64336d0a3d84705da91a7?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Spice Status Update
+    speaker: Hans de Goede
+    start: November 07, 2012 16:00 CET
+    end: November 07, 2012 16:30 CET
+    description: |-
+      Spice, the opensource remote virtual desktop protocol, aims to provide a
+      complete open source solution for interaction with virtualized desktop
+      devices. As such Spice is undergoing rapid development atm. This talk will
+      look back at what has been achieved the last year, and look forward to what
+      the Spice team plans to work on for the coming year.
+
+      The talk is for developers and users who are using Spice, plan to deploy
+      Spice in the future, or are interested in Spice in general. The audience is
+      expected to be familiar with generic virtualization concepts, but no deep
+      technical knowledge is required.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/3ab961d729c92f83245c86cfca78efd5?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: A New Chipset for Qemu - Intel's Q35
+    speaker: Jason Baron
+    start: November 07, 2012 16:30 CET
+    end: November 07, 2012 17:00 CET
+    description: |-
+      Qemu is currently based upon a Pentium Pro chipset, which was first released
+      in 1996. It still continues to serve us quite well, but there are a number
+      of limitations, especially in the PCI space. I am currently updating a
+      patchset first brought forward by Isaku Ymahata to add a new machine model
+      based on Intel's Q35 chipset. I will discuss the new features that Q35
+      introduces, including the topology, the chipset devices, and the pci express
+      features (aer, ari, hotplug, power management). I will provide an update on
+      its status - testing, performance, and any remaining merge hurdles.
+
+      The intended audience is qemu/kvm developers. I'd like to get them
+      interested in the new chipset, and and to suggest potential new development
+      areas that Q35 opens.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/9707ce44d79e146c1e896857895e8b3e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: New Features in libguestfs and the Virt Tools
+    speaker: Richard Jones
+    start: November 07, 2012 16:30 CET
+    end: November 07, 2012 17:00 CET
+    description: |-
+      Libguestfs is a C library that provides a way to access and modify virtual
+      machine disk images. It uses qemu and the Linux kernel, so we can manipulate
+      just about any disk image, filesystem, partitioning scheme, LVM, Windows
+      disks, and more. Above this layer are many specialized "virt-\*" tools for
+      carrying out specific tasks. In this talk, Richard Jones will give a live
+      demonstration of libguestfs and the virt tools, and talk about the new
+      features available in libguestfs 1.20.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/e46d9d84637c8917d47ee20ea3d0e0e2?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Building Application Sandboxes on Top of KVM or LXC Using libvirt
+    speaker: Daniel Berrange
+    start: November 07, 2012 17:00 CET
+    end: November 07, 2012 17:30 CET
+    description: |-
+      Historically most usage of virtualization has focused on running entire
+      operating systems in virtual machines or containers. The libvirt-sandbox
+      toolkit builds on libvirt, KVM & LXC, to provide a high level API and
+      command line tools to facilitate the use of virtualization as a technology
+      for creating secure application sandboxes, without the burden of maintaining
+      additional OS installations. The talk will cover the architecture of the
+      sandbox technology, the challenges faced in its design & implementation, use
+      cases it can address and the scope for future development.
+
+      The talk is suitable for a broad audience, covering system administrators,
+      application developers & virtualization platform developers. A basic
+      understanding of virtualization and security concepts is assumed. The
+      audience will learn what capabilities the API & tools provide & how they can
+      be applied to their environment.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/a62f1370d3c3e4cd81cb388474f438bc?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: KVM autotest - It's not Just a QA Tool Anymore
+    speaker: Lucas Meneghel Rodrigues
+    start: November 07, 2012 17:00 CET
+    end: November 07, 2012 17:30 CET
+    description: |-
+      KVM autotest is a large set of functional and performance tests for KVM
+      (both kernel and userspace). The design goals of the project were to provide
+      infrastructure to perform extensive and systematic tests, and it's largely
+      considered a QA only affair.
+
+      However, during the last couple of years, we've been working on bringing the
+      benefits of this flexible test framework for developers, a fundamentally
+      different use case. This required re-thinking the structure of the project.
+
+      This presentation aims to show the work that has been done in making the
+      tests more approachable and useable for KVM developers:
+
+      - Separation of tests from autotest core
+      - Exposing APIs for convenient use on external test scripts
+      - Abstract concepts that are not entirely necessary for a casual developer
+      to make use of autotest (such as configuration files)
+
+      We'll talk about what was done and what's on the pipeline, with a demo.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/afda3d75d9b7ec618042eb38a91eea64?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Virtio & Networking Status and Challenges
+    speaker: Michael S. Tsirkin
+    start: November 08, 2012 09:15 CET
+    end: November 08, 2012 10:00 CET
+    description: |-
+      This talk will present a high level description of current work on virtio,
+      vhost - in general with focus on paravirtualized networking in particular.
+
+      The talk will start with a quick overview of a paravirtualized networking in
+      KVM. It will next describe new enhancements in this field developed in the
+      last year, most of them performance-related.
+
+      The talk will include a description of upcoming challenges in enhancing
+      paravirtualized networking in KVM.
+
+      For a selected subset of the enhancements the talk will include some
+      background and motivation, an architecture-level view of the implementation
+      and a short description of the benefits to the user.
+
+      The talk is targeted at developers with high level understanding of KVM and
+      networking, and interest in their internals.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/0de1f5ad81a707953b48c3d12a488da9?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'Scripting and Integration : oVirt CLI and SDK'
+    speaker: Simon Grinberg
+    start: November 08, 2012 09:15 CET
+    end: November 08, 2012 10:00 CET
+    description: |-
+      How to leverage ovirt api, sdk and cli for scripting and automation.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/5d37c086b4f8afd653af75abffae74d4?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: KVM Memory Management Update & Plans
+    speaker: Rik van Riel
+    start: November 08, 2012 10:30 CET
+    end: November 08, 2012 11:15 CET
+    description: |-
+      Rik van Riel and Andrea Arcangeli will go over the KVM memory management
+      changes from the last year, as well as possible changes for the next year.
+      Topics include THP, ballooning, NUMA and more. The goal is a shorter
+      presentation, with plenty of time for open discussion.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/c3de4c709ca0a3ee9101825bd82bab47?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Using oVirt Via ec2/cimi With Deltacloud
+    speaker: Oved Ourfali
+    start: November 08, 2012 10:30 CET
+    end: November 08, 2012 11:00 CET
+    description: |-
+      How to script via ec2 and cimi api's on top of ovirt by using deltacloud.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/323af0309acd91f334ab692d85463f93?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Extending oVirt Web Interface with UI Plugins
+    speaker: Vojtech Szocs
+    start: November 08, 2012 11:00 CET
+    end: November 08, 2012 11:30 CET
+    description: |-
+      oVirt web administration application (WebAdmin) is a powerful tool to manage
+      various assets of the virtualization infrastructure. In addition to existing
+      functionality, there can be times when administrators want to expose
+      additional features of their infrastructure through WebAdmin user interface.
+
+      In this session, Vojtech will present the concept and implementation of UI
+      plugins, upcoming oVirt feature that allows third-party developers to extend
+      WebAdmin user interface and related functionality. UI plugins integrate with
+      WebAdmin directly on the client through JavaScript programming language,
+      which makes the plugin infrastructure simple and flexible.
+
+      Attend this session to learn more about UI plugins, update on current
+      implementation, and live demo showing how to write and deploy custom plugin.
+      This session is intended for anyone interested in extending oVirt WebAdmin
+      functionality.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/fcf60f14ff3208fc9874fa08071a1a4b?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Revamping the QEMU Memory API
+    speaker: Avi Kivity
+    start: November 08, 2012 11:15 CET
+    end: November 08, 2012 12:00 CET
+    description: |-
+      QEMU's original memory API, was complicated, hard to use, incorrect,
+      insecure, did not scale, and consumed a lot of memory. None of these was
+      particularly problematic with the original use cases of emulating embedded
+      boards, or perhaps running a virtualized desktop system to use "the other
+      OS". However, for enterprise and cloud users running hundreds of untrusted
+      guests on a single host, the API and its implementation presents a problem.
+
+      This talk will cover the new QEMU memory API, its design considerations, and
+      how it addresses the limitations of the old implementation.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/468b55a5cebc18bb80d10350eb380580?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Integrating oVirt into GNOME Boxes
+    speaker: Christophe Fergeau
+    start: November 08, 2012 11:30 CET
+    end: November 08, 2012 12:00 CET
+    description: |-
+      This talk will describe how oVirt support was added to GNOME Boxes, a Vala/C
+      application. It will present the libgovirt library, a GObject library
+      wrapping oVirt REST API, and then expand on the work that needed to be done
+      in Boxes. Finally, we will talk about the future improvements that can be
+      done for this support.
+
+      The audience should have basic development experience as it will describe my
+      experience with wrapping the oVirt REST API in C, and then using it in a
+      Vala application.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/0196a0d9d10a0fb454f678a377cd7d7c?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: A Block Layer Overview
+    speaker: Kevin Wolf
+    start: November 08, 2012 13:00 CET
+    end: November 08, 2012 13:45 CET
+    description: |-
+      The block layer is one of qemu's most complex subsystems, and it has seen a
+      very high and even increasing development activity recently. This talk will
+      give an overview of the features of the block layer and its basic objects,
+      highlighting the changes since last year and outlining some plans for the
+      future.
+
+      It will span the whole area from guest devices (IDE, AHCI, virtio-blk/scsi)
+      to block drivers implementing different image formats and protocols
+      (especially qcow2) and background jobs operating on block devices, referring
+      to the more detailed talks that may be given on some of the topics.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/5def1cf58a44432a6f7c674796a586c6?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Extending oVirt via Custom Hooks
+    speaker: Andrew Cathrow
+    start: November 08, 2012 13:00 CET
+    end: November 08, 2012 13:40 CET
+    description: |-
+      Introduction and samples to ovirt custom hooks for extending and changing
+      the behavior of ovirt/vdsm.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/6a992ed5d3f0806561c91903594a030d?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: SLA@oVirt
+    speaker: Doron Fediuck
+    start: November 08, 2012 13:40 CET
+    end: November 08, 2012 14:20 CET
+    description: |-
+      SLA@oVirt is quite challenging. Allowing users to have policies to
+      prioritize virtual machines, limit CPU and RAM consumption, and allow
+      overcommitment are not easy tasks. Now throw in VM affinity, VM
+      High-Availability and see what we're up against.
+
+      In this talk, oVirt users, developers and others will get a review of
+      existing SLA and scheduling elements in today's oVirt, as well as new
+      features added and being added into current and future versions of oVirt.
+      Relevant architecture and API changes across oVirt project will be
+      discussed, and feedback is more than welcome.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/72d9009486f1c1f38ebdbc2b002f3609?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: The Road to Effective Thin Provisioning in QEMU
+    speaker: Paolo Bonzini
+    start: November 08, 2012 13:45 CET
+    end: November 08, 2012 14:30 CET
+    description: |-
+      QEMU (and hence KVM) has long supported thin provisioning, through both
+      sparse raw files and image formats such as qcow2. However, there are several
+      limitations in the implementation of this feature, which make it much less
+      effective as the lifetime of a virtual machine image grows. This talk will
+      cover how thin provisioning can help both virtual machine and host
+      administrators, as well as when/how it can be used now. It will also present
+      a plan for making this feature more generally, effectively and easily
+      usable.
+
+      This talk is aimed at system administrators and developers. While relevant
+      concepts will be introduced during the talk, some familiarity with storage
+      technology is expected.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/91c04b4447e8c3467bfee63a79003d59?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'VFIO: A User''s Perspective'
+    speaker: Alex Williamson, Red Hat
+    start: November 08, 2012 13:45 CET
+    end: November 08, 2012 14:30 CET
+    description: |-
+      The VFIO userspace driver interface is now available in Linux v3.6 release
+      candidates and the matching Qemu driver will be merged into the Qemu 1.3
+      release. By the time of this talk, VFIO will be available in the latest
+      stable kernels and the Qemu development tree. VFIO breaks physical device
+      assignment free from KVM, making it available to more architectures, more
+      platforms and more device types. In this talk we'll take a high level look
+      at VFIO and IOMMU grouping with a focus on how to make use of it, the
+      restrictions and benefits it adds, and how it compares to KVM PCI device
+      assignment in setup, functionality, and performance.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/90666f8ae871f6f0d2445634b07c2ced?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Extending oVirt Network With Quantum
+    speaker: Oved Ourfali
+    start: November 08, 2012 14:20 CET
+    end: November 08, 2012 15:00 CET
+    description: |-
+      Deep dive to future network roadmap and planned quantum integration.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/593d03104f136a5ef7ad0ed7a7bc8259?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: GlusterFS for KVM Users and Developers
+    speaker: Stefan Hajnoczi
+    start: November 08, 2012 14:30 CET
+    end: November 08, 2012 15:00 CET
+    description: |-
+      This talk gives an overview of GlusterFS for scale-out storage management of
+      KVM disk images. GlusterFS creates network attached storage on commodity
+      hardware, including features for elastically adding/removing nodes and
+      georeplication. Recent improvements in GlusterFS and KVM make it easy to run
+      VM disk images on GlusterFS volumes. We also focus on GlusterFS architecture
+      and how it could be extended for virtualization-specific needs.
+
+      Previous experience with KVM or GlusterFS is not necessary, but a general
+      understanding of virtualization and disk images is required. Users of NFS
+      and iSCSI may be particularly interested in this talk to see how GlusterFS
+      approaches networked storage differently and is uniquely flexible.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/01d580a7d1eabbf0d1875bd00ab58cef?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'QEMU Live Block Operations: Snapshots, Merging, and Mirroring'
+    speaker: Jeff Cody
+    start: November 08, 2012 15:30 CET
+    end: November 08, 2012 16:00 CET
+    description: |-
+      Over the last year, QEMU's support for live block operations has grown to
+      encompass atomic snapshots of multiple disks, merging of snapshots via block
+      streaming and block commit, and block mirroring support.
+
+      While this talk is suitable for technical end-users, it deals with features
+      that are primarily accessible by means of QAPI and QMP commands. It will
+      focus on the snapshot and merging commands, how these operations are
+      performed, and their limitations. Block mirroring will also be covered in
+      similar detail. In addition, this talk will feature a demonstration of live
+      atomic snapshots of multiple devices, and subsequent live merging of the
+      resulting images by means of block commit and block streaming.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/fe1c8e70c385c00ecb6ad070e2f99fa7?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Virtio-blk Performance Improvement
+    speaker: Asias He
+    start: November 08, 2012 16:00 CET
+    end: November 08, 2012 16:30 CET
+    description: |-
+      A very short overview of storage choices in KVM: \* IDE, AHCI, SCSI,
+      virito-scsi, virtio-blk, device assignment, network based (glusterfs,
+      sheepdog, etc.) \* performance comparison (esp. virtio-scsi v.s virtio-blk)
+      \* why improve virtio-blk
+
+      Host side improvement for virtio-blk: \* userspace based virito-blk solution
+      \* QEMU current v.s QEMU data-plane v.s kvm tool's virio-blk \* vhost based
+      virito-blk solution \* using existing kernel aio interface \* using new in
+      kernel aio interface \* using in kernel bio interface \* userspace solution
+      v.s. vhost solution
+
+      Guest side improvement for virtio-blk: \* bio based virtio-blk \* bio based
+      v.s. request based virtio-blk
+
+      Future work: \* multiqueue virtio-blk
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/62bd2de9ba84ef3e0c3d23862159712e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: oVirt/Gluster Integration
+    speaker: Vijay Bellur
+    start: November 08, 2012 16:15 CET
+    end: November 08, 2012 17:00 CET
+    description: |-
+      Gluster management is integrated in oVirt. This session will cover how
+      gluster basics and introduce using gluster as storage backend from ovirt.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/0c41350a6cb4dd5c4db19c6c149ec399?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Multiqueue Networking for KVM
+    speaker: Jason Wang
+    start: November 08, 2012 16:30 CET
+    end: November 08, 2012 17:00 CET
+    description: |-
+      Multiqueue networking of kvm guest were introduced to eliminate the
+      bottleneck of current single queue model and scale the performance for smp
+      guest running on hosts with multiqueue cards. Multiqueue capable kvm guest
+      will have a higher network performance compared to single queue. This
+      presentation discusses the design and implementation of extending the
+      kernel/qemu components of both host and guest to be multiqueue capable.
+      Performance numbers and pending issues will also coverd in the talk.
+
+      The developers, customers and hardware vendors who are interested in the
+      solution of high performance virtualized networking were targerted at this
+      talk. They would expect a kind of high performance solution with multiqueue
+      and virtio-net. Some basic knowledge of kvm, virtio and high performance
+      networking were required for this talk.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/7b0cff16d944556148e082c527e61617?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: oVirt Infrastructure Overview
+    speaker: Mike Burns
+    start: November 09, 2012 09:15 CET
+    end: November 09, 2012 09:35 CET
+    description: |-
+      An overview of the various infrastructure tools and services available in
+      the ovirt.org domain. We’ll discuss various aspects from how different tools
+      are leveraged with a heavy focus on the use of Jenkins for build and test
+      automation, Gerrit for source code management, and Puppet for configuring
+      the various servers for different uses. We’ll also discuss how we grew the
+      infrastructure from a just a couple of EC2 hosts to where we are today, to
+      where we’re planning to go in the future.
+
+      This is primarily geared toward people interested in how we go about
+      managing and coordinating the various pieces of infrastructure in the oVirt
+      site. It will range from high level discussion of what we're trying to
+      accomplish to diving into some of the technical details. I'd like this talk
+      to be very interactive, but will be prepared to present in the event there
+      aren't a lot of questions.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/80914f36d80c66c2e9ab56e073686d05?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Automated Testing of oVirt Node
+    speaker: Fabian Deutsch
+    start: November 09, 2012 09:35 CET
+    end: November 09, 2012 10:00 CET
+    description: |-
+      This talk will dive into the method and implementation of automated testing
+      with oVirt Node. We’ll discuss the challenges and problems with testing in
+      an automated fashion. We’ll then explore how the challenges have been met
+      and overcome. We’ll dive into the framework and design of the the various
+      test cases and how they can be run on both physical hardware and virtual
+      machines.
+
+      For more information, including spoeaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/2f018366511e3590c3f622b0fb07fc98?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'OpenStack: KVM for the Masses'
+    speaker: Mark McLoughlin
+    start: November 09, 2012 10:30 CET
+    end: November 09, 2012 11:00 CET
+    description: |-
+      Having recently passes its second birthday, OpenStack is a relatively new
+      entrant into the world of open-source virtualization. Since its
+      announcement, it has gained incredible traction and momentum with hundreds
+      of developers contributing to each release. OpenStack's success - and the
+      potential for it to be deployed pervasively at massive scale, particularly
+      in public clouds - presents an opportunity for KVM's continued growth and
+      adoption.
+
+      Mark, a former KVM developer, will introduce the OpenStack project, its
+      architecture and current status. Mark will then talk in some detail about
+      how OpenStack currently uses KVM and libvirt before setting the scene for a
+      a discussion about how OpenStack could adopt more of KVM's unique features
+      to the benefit of both projects.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/bd91ab75c57b6460cc418392c105669a?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'Boxes: A Box for Everyone!'
+    speaker: Zeeshan Ali
+    start: November 09, 2012 11:15 CET
+    end: November 09, 2012 12:00 CET
+    description: |-
+      Boxes is a new GNOME application for easily handling other systems: local
+      virtual machines and remote desktop. A local machine is powered by KVM and
+      SPICE, and you can access remote desktop via libvirt, SPICE and VNC. During
+      this talk I will demonstrate latest version and describe the design of
+      Boxes. I will discuss the importance of Boxes as part of the GNOME project.
+      Finally, a list of missing features and the roadmap for the next cycle will
+      be presented.
+
+      The talk is indented for Linux users, system administrators and developers a
+      like. Audience will be expected to have very basic understanding of, and
+      experience with virtual machines, Linux and GNOME. Experience with virtual
+      machine managers, like virt-manager will be an advantage but not required.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/1a25a9c09b40e31c4af5214f19dccc44?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: VDSM For Developers
+    speaker: Federico Simoncelli
+    start: November 09, 2012 11:15 CET
+    end: November 09, 2012 12:00 CET
+    description: |-
+      Learn about VDSM internals.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/629ed5ae84be0b22bc5f8a2f9ed0aa75?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: Engine for Developers
+    speaker: Juan Hernandez
+    start: November 09, 2012 13:00 CET
+    end: November 09, 2012 13:40 CET
+    description: |-
+      oVirt engine internals.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/7c0a9ec1b79a48e1f4d57680da00c47e?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: 'Storage Live Migration: Below The Hood'
+    speaker: Federico Simoncelli
+    start: November 09, 2012 13:40 CET
+    end: November 09, 2012 14:20 CET
+    description: |-
+      This session will review end-to-end the implementation of storage live
+      migration.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/50129181f4d56d00c370c1768cdcba77?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: UI For Developers
+    speaker: Vojtech Szocs
+    start: November 09, 2012 14:20 CET
+    end: November 09, 2012 15:00 CET
+    description: |-
+      Introduction to ovirt GWT UI internals.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/3b4d0115f9a5f39186f7579d6608648f?iframe=yes&w=750&sidebar=yes&bg=no#?iframe=yes&w=750&sidebar=yes&bg=no).
+
+  - summary: oVirt Node and OpenStack
+    speaker: Fabian Deutsch
+    start: November 09, 2012 15:30 CET
+    end: November 09, 2012 16:00 CET
+    description: |-
+      A talk diving into the details of using the oVirt Node framework with
+      projects different to oVirt. We’ll dive into details of how oVirt Node is
+      different depending in which environment it is being used. There will be a
+      heavy focus on how it is or can be used with OpenStack as the IaaS platform.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/a31ccd8702d7cc1a6bcd8c66d8f8443c?iframe=no&w=750&sidebar=yes&bg=no#).
+
+  - summary: Drools Integration in oVirt Engine
+    speaker: Laszlo Hornyak
+    start: November 09, 2012 16:00 CET
+    end: November 09, 2012 16:45 CET
+    description: |-
+      The VM scheduler is the heart of a private cloud, it selects host for your
+      virtual machine, decides about VM migrations and aligns the load on the
+      hosts. While this is not a simple task, performance and the costs of the
+      virtualization system is largely dependent on the decisions this component
+      makes. JBoss Drools can help us to make the decision logic more readable and
+      easier to extend by specifying rules rather than trying to rewrite an
+      existing algorithm. This approach promises better performance for your
+      private could through better decisions.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://kvmforumovirtworkshop2012.sched.org/event/827af93622922bafe8a876b23948f9f0?iframe=no&w=750&sidebar=yes&bg=no#).
+
+  - summary: How Can We Improve The Process of Troubleshooting an oVirt Environment
+      (BoF)
+    speaker: Lee Yarwood
+    start: November 09, 2012 16:45 CET
+    end: November 09, 2012 17:30 CET
+    description: |-
+      This BoF will look into how we can improve the process of troubleshooting an
+      oVirt environment. The session will start with an overview of techniques
+      currently employed downstream and issues faced with these techniques before
+      branching out into possible improvements that can be made upstream within
+      oVirt.
+
+      Given the nature of this BoF both users and developers are welcome to attend
+      and share their ideas.
+
+- name: W-JAX
+  location: Munich, Germany
+  start: November 07, 2012 12:00 CET
+  end: November 08, 2012 12:00 CET
+  timezone: CET
+  talks:
+
+  - summary: 'WebSocket: Connectivity for the modern Web?'
+    speaker: Matthias Wessendorf
+    start: November 07, 2012 08:30 CET
+    end: November 07, 2012 09:45 CET
+    description: |-
+      Almost a year ago the final WebSocket standard was adopted (RFC 6455). But
+      what has been happening within the last year? What about the support of the
+      new standards, especially in the context of the "Mobile Web"? The
+      presentation gives an overview of the current state of the protocol and
+      provides a variety of client and server libraries before using practical
+      examples.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://entwickler.com/konferenzen/ext_scripts/v2/php/sessions-popup.php?module=wjax2012&id=23397).
+
+  - summary: 'HTML5 Alchemy: the Secrets of mixing JavaScript and Java EE'
+    speaker: Jay Balunas
+    start: November 07, 2012 10:15 CET
+    end: November 07, 2012 11:15 CET
+    description: |-
+      A deep dive on creating mobile-ready, cloud-enabled, HTML5 applications
+      based on Java EE and modern JavaScript. You will learn how to balance and
+      combine the enterprise Java programming model, based on APIs such as CDI,
+      JAX-RS and EJB 3.1, with JavaScript libraries like jQuery Mobile, Backbone,
+      Require and Underscore, while taking advantage of the ease of deployment and
+      elasticity of the cloud.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://entwickler.com/konferenzen/ext_scripts/v2/php/sessions-popup.php?module=wjax2012&id=22707).
+
+  - summary: Front to Back Security for Mobile, HTML5 and Java EE Applications
+    speaker: Jay Balunas
+    start: November 08, 2012 08:30 CET
+    end: November 08, 2012 09:45 CET
+    description: |-
+      Application security has never been more important or complex as it today!
+      Mobile, HTML5, and cloud are just some of recent additions. It's also one of
+      the first areas "glossed over" by many projects. Why? Because its hard! This
+      session will dive into these issues with examples, and real world use cases.
+      How to handle current technical challenges and cases only found with mobile
+      applications.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://entwickler.com/konferenzen/ext_scripts/v2/php/sessions-popup.php?module=wjax2012&id=22706).
+
+- name: Gluster Workshop
+  location: Barcelona, Spain
+  start: November 08, 2012 12:00 CET
+  summary: |-
+    GlusterFS is a community produced, open source, distributed file system
+    capable of scaling to several petabytes(actually, 72 brontobytes!) and
+    handling thousands of clients. The morning workshop sessions will provide
+    attendees with a broad and deep overview of GlusterFS, from history and
+    roadmap to the latest release, v 3.3. The afternoon sessionswill focus on
+    Gluster implementation as a big data solution, development platform and tool
+    for systems administrators.
+  timezone: CET
+  talks:
+
+  - summary: The State of the Gluster Community
+    speaker: John Mark Walker
+    start: November 08, 2012 09:00 CET
+    end: November 08, 2012 10:00 CET
+    description: |-
+      Now one year after the Red Hat acquisition of Gluster, Inc, the Gluster
+      community is growing up. Every day, more users and developers come to
+      appreciate the simplicity, ease of use, and flexibility of distributed data
+      storage, GlusterFS style. In this talk, attendees will learn about the
+      project's history, the most recent release, the in-process developer sprint,
+      and what new features are just around the corner.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/7b3d6164716cb493338f7921040f6116#.UIliqFuXd_s).
+
+  - summary: Integrating GlusterFS, oVirt and KVM
+    speaker: Vijay Bellur
+    start: November 08, 2012 11:15 CET
+    end: November 08, 2012 12:15 CET
+    description: |-
+      GlusterFS is a distributed file system that can scale to several PetaBytes.
+      oVirt is a management platform for Kernel based Virtual Machine (KVM) and
+      can be used to manage GlusterFS as well.
+
+      This presentation will discuss integration of KVM and GlusterFS through
+      various mechanisms like:
+
+      - GlusterFS's FUSE based native protocol
+      - Qemu and libglusterfsclient
+
+      Details on how both file and block based interfaces can be presented to host
+      KVM images from GlusterFS will be provided.
+
+      The presentation will then talk about how oVirt can be used to provision
+      GlusterFS volumes and how such volumes can then be used for hosting KVM
+      images. Configuration details of both these features from oVirt would be
+      presented.
+
+      The benefits emerging from integration of these projects would be
+      highlighted as well.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/3dbd83ffa77fcc3424152c8b810e5d07#.UIlkVFuXd_s).
+
+  - summary: 'GlusterFS Demos: Getting Started in a Flash, UFO, & Wireshark'
+    speaker: Eco Willson and Niels de Vos
+    start: November 08, 2012 14:15 CET
+    end: November 08, 2012 15:15 CET
+    description: |-
+      Gluster's Unified File and Object (UFO) is a hybrid solution that allows you
+      to access your existing data simultaneously via traditional filesystems and
+      via the SWIFT API's. In this talk, we will go over the benefits of using
+      UFO, as well as demonstrating common use cases for setting up object storage
+      with Gluster.
+
+      For more information, including speaker bios, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/6b0221d96c91bb1602c60bf76d158d05#.UIlmOluXd_s).
+
+  - summary: GlusterFS for SysAdmins
+    speaker: Dustin Black
+    start: November 08, 2012 15:30 CET
+    end: November 08, 2012 16:30 CET
+    description: |-
+      GlusterFS represents a dramatic departure from traditional backend storage
+      solutions. In this talk, attendees will get a technical dive into GlusterFS
+      from the SysAdmin perspective, including a study of implementation
+      scenarios. We'll explore such topics as enterprise storage strategy, data
+      access methods, the elegant simplicity of scaling both out and up, the
+      strength of redundancy and fault tolerance, and ways to boost performance.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://linuxconeurope2012.sched.org/event/784cfb866c395469f5eccd16b5f9df75#.UIlrOluXd_s).
+
+- name: Devoxx
+  location: Antwerp, Belgium
+  start: November 12, 2012 12:00 CET
+  end: November 15, 2012 12:00 CET
+  timezone: CET
+  talks:
+
+  - summary: Write your first Ceylon program with the language authors
+    speaker: Stephane Epardaud and Gavin King
+    start: November 12, 2012 13:30 CET
+    end: November 12, 2012 16:30 CET
+    description: |-
+      During this session, Gavin King (author of Ceylon) and Stéphane Épardaud
+      (Ceylon team) will help you learn the Ceylon programming language, hand in
+      hand, from downloading the tools, using the IDE, getting to know the various
+      tools, the language SDK, all the way to running your own module repository
+      and publishing your first Ceylon modules to it and to the official Ceylon
+      module repository.
+
+      No knowledge of Ceylon required, though the audience should be familiar with
+      the Java programming language.
+
+      For more information, including speaker bios, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Write+your+first+Ceylon+program+with+the+language+authors).
+
+  - summary: Raise Your Java EE 6 Productivity Bar with JBoss Forge
+    speaker: Koen Aers
+    start: November 12, 2012 18:05 CET
+    end: November 12, 2012 18:35 CET
+    description: |-
+      Getting started with Java EE development can, despite the important
+      improvements over time, still be quite daunting for newbies. Putting a JSF
+      application to work, setting up persistence or enabling restful web services
+      are not trivial tasks.
+
+      JBoss Forge is a versatile and lean development environment entirely written
+      in Java and making smart use of CDI. Its purpose is to offer you the
+      possibility of incrementally working in new functionality into existing Java
+      projects. It is a command-line oriented tool, so creating entities or
+      scaffolding a user interface is just a matter of issuing a few commands.
+
+      But what if your task cannot be done by Forge? No worries, as Forge operates
+      by means of plug-ins, the answer is simply to look for an appropriate plugin
+      or create it yourself if one is not available.
+
+      Finally, Forge can also be integrated in graphical IDE's opening up all its
+      power to users of common platforms such as Eclipse. Come to this session if
+      you want to see this powerful tool live in action!
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Raise+Your+Java+EE+6+Productivity+Bar+With+JBoss+Forge).
+
+  - summary: OpenShift State of the Union
+    speaker: Marco Rietveld
+    start: November 13, 2012 14:00 CET
+    end: November 13, 2012 15:00 CET
+    description: |-
+      There are plenty of clouds and platform-as-a-services to choose from, but
+      where to start?
+
+      Join us for an action-packed hour of power where we'll show you how to
+      deploy an application written in the language of your choice - Java, Ruby,
+      PHP, Perl or Python, with the framework of your choice - EE6, CDI, Seam,
+      Spring or Rails to the OpenShift PaaS in just minutes. All without having to
+      rewrite your app to get it to work as the cloud provider thinks it should
+      work.
+
+      We will focus on examples that highlight what OpenShift has to offer, how to
+      get started, & provide example projects that you can access now. Bring your
+      laptop & follow along as we help you get started with Aerogears, Drools
+      Planner, BRMS, Switchyard & much more. Real world projects put on display
+      for you with code you can access live during this session.
+
+      If you want to learn how the OpenShift PaaS & investing an hour of your time
+      can change everything you thought you knew about developing apps in the
+      cloud, this session is for you!
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/OpenShift+State+of+the+Union).
+
+  - summary: Measuring performance and capacity planning in Java-based data grids
+    speaker: Mircea Markus
+    start: November 13, 2012 18:05 CET
+    end: November 13, 2012 18:35 CET
+    description: |-
+      Measuring your data grid's performance it's not a trivial task. In this
+      presentation, Mircea Markus will introduce project Radargun: a benchmarking
+      framework that helps measuring the performance and throughput of in-memory
+      data grids. Radargun offers an simple and effective way to compare how
+      various data grid products would behave based on a specific use case helping
+      you to chose the one that fits your need. It also makes it a great tool
+      setting up a prototyping your data-grid based application in a matter of
+      minutes.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Measuring+performance+and+capacity+planning+in+Java-based+data+grids).
+
+  - summary: Why JRuby and TorqueBox Belong in Your Java Tool Box
+    speaker: Ben Browning
+    start: November 12, 2012 19:00 CET
+    end: November 12, 2012 20:00 CET
+    description: |-
+      This session will briefly introduce you to JRuby and TorqueBox and the value
+      they can bring to a Java organization. Then we'll open things up for
+      discussion where participants can ask questions and share their experiences
+      for the benefit of everyone. If your organization is considering deploying
+      JRuby applications, you won't want to miss this!
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Why+JRuby+and+TorqueBox+Belong+in+Your+Java+Tool+Box).
+
+  - summary: Maven dependency puzzlers
+    speaker: Geoffrey de Smet
+    start: November 13, 2012 17:25 CET
+    end: November 13, 2012 17:55 CET
+    description: |-
+      We release our dependency information as pom.xml files on a maven
+      repository. But how well do we understand the effect of these pom.xml files
+      on our users? What problems do we create in ours and their dependency
+      resolution?
+
+      In this session, you’ll be presented with several Maven puzzlers. Each Maven
+      puzzler is a small POM configuration with a multiple-choice question about
+      the output. Some puzzlers are easy, others are hard. Whoever answers most
+      puzzlers correctly, wins.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Maven+dependency+puzzlers).
+
+  - summary: 'Bean Validation 1.1: it''s not Beansland anymore'
+    speaker: Emmanuel Bernard
+    start: November 15, 2012 10:50 CET
+    end: November 15, 2012 11:50 CET
+    description: |-
+      Bean Validation standardizes constraint declarations and validation for the
+      Java platform.Bean Validation 1.0 has been widely adopted and seamlessly
+      integrated with some other JSRs (like JSF, JPA) and the rich Java framework
+      environment at large.
+
+      We will explore what version 1.1 brings to the table and what new features
+      you can expect for your future Java SE or EE applications. We will discuss
+      in an example driven fashion method-level validation, Context and Dependency
+      Injection (CDI) integration and many more new features and improvements.
+
+      Come join us to see that Bean Validation is not Beansland anymore.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Bean+Validation+1.1++it%27s+not+Beansland+anymore).
+
+  - summary: The JBoss Polyglot Revolution - Be part of it!
+    speaker: Galder Zamarreño
+    start: November 15, 2012 10:50 CET
+    end: November 15, 2012 11:50 CET
+    description: |-
+      In this talk, Galder will look at the evolution of JBoss, from a producer of
+      java based middleware, to the current expansion towards multi-language
+      platforms. How did Torquebox come about? Why are we creating Ceylon? What is
+      Escalante? What is Immutant? This and many other questions will be answered
+      in this informal chat that will not only look into the motivations behind
+      building middleware in other languages, but will also discuss the
+      technological advances that have this expansion possible. During this
+      presentation the audience will get invaluable feedback on the lessons learnt
+      while developing with other languages, pitfalls of the different languages
+      used, tips of learning new languages...etc, giving them first-hand advice
+      that they will be able to apply in their work environments. Finally, the
+      talk will finish with information on how join and contribute to the JBoss
+      Polyglot Revolution!
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/The+JBoss+Polyglot+Revolution+-+Be+part+of+it!).
+
+  - summary: Practical guide to Infinispan Queries
+    speaker: Sanne Grinovero
+    start: November 15, 2012 13:10 CET
+    end: November 15, 2012 13:25 CET
+    description: |-
+      Infinispan is a powerful and extremely efficient transactional NoSQL: a
+      distributed in-memory Data Grid exposing primarily a Map-like API, but also
+      integrating Apache Lucene to allow full-text queries. This integration
+      however can be setup in a number of ways, resulting in different
+      architectures.
+
+      How to pick the right clustering mode? Which indexing backend to choose?
+      Should you use a shared CacheLoader?
+
+      Let’s explore these options via some practical examples.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/Practical+guide+to+Infinispan+Queries).
+
+  - summary: From Zero to JavaEE in 15 Minutes (or Less)
+    speaker: Koen Aers
+    start: November 15, 2012 13:10 CET
+    end: November 15, 2012 13:25 CET
+    description: |-
+      What if somebody told you that you have to reverse engineer a database and
+      to create a JSF application with CRUD operations for it? What if he adds
+      that he needs this application deployed in the cloud and that moreover you
+      only have 15 minutes to achieve this? Wouldn't you think this person is out
+      of his mind? During this quickie we will show you how to do this using JBoss
+      Forge.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/From+Zero+to+JavaEE+in+15+Minutes+%28or+Less%29).
+
+  - summary: JBoss Application Server - Community BOF
+    speaker: Dimitris Andreadis
+    start: November 15, 2012 20:00 CET
+    end: November 15, 2012 21:00 CET
+    description: |-
+      Come to discuss the present and future of the JBoss Application Server
+      project with members of the JBoss Core Development Team.
+
+      For more information, including speaker bio, [visit the conference
+      website](http://www.devoxx.com/display/DV12/JBoss+Application+Server+-+Community+BOF).
+
+- name: The Rich Web Experience
+  location: Fort Lauderdale, Florida, US
+  start: November 29, 2012 12:00 EST
+  end: November 30, 2012 12:00 EST
+  timezone: EST
+  talks:
+
+  - summary: Growing an OSS project by turning followers into leaders
+    speaker: Jason Porter
+    start: November 28, 2012 20:30 EST
+    end: November 28, 2012 22:00 EST
+    description: |-
+      Open Source is about building a community of developers and users around a
+      project willing to cooperate, exchange ideas and provide peer review.
+      Participating in the project provides mutual benefit to all parties,
+      including better software, skill improvement, respect, and being a member of
+      a group of peers. But how does it happen? What motivates people to join your
+      project? How do you grow the community?
+
+      We'll use Seam 3 as a case study. We'll present the factors we believe led
+      to a 3000% increase in the project team in just one year, with many
+      contributors leading one or more modules of the project. By the end of this
+      talk, you should have plenty of ideas about how to increase participation so
+      your project can realize these benefits.
+
+      For more information, including speaker bio, [visit the conference
+      website](https://therichwebexperience.com/conference/fort_lauderdale/2012/11/session?id=26458).
+
+  - summary: Drop the angled brackets. Write (Ascii)Docs with pleasure!
+    speaker: Dan Allen
+    start: November 29, 2012 19:30 EST
+    end: November 29, 2012 21:00 EST
+    description: |-
+      Writing documentation is already hard enough. Why do we make it more
+      difficult by burying the content in an XML syntax like DocBook or wrestling
+      with finicky WSYWIG editors? Come learn how to write documentation with
+      pleasure using AsciiDoc and still be able to produce beautiful HTML, DocBook
+      and PDF documentsand even presentation slides!
+
+      Writing documentation is already hard enough. Why do we make it more
+      difficult by burying the content in an XML syntax like DocBook or wrestling
+      with finicky WSYWIG editors?
+
+      What if you could just write? Forget about the layout and styling and just
+      let the thoughts flow? That's the idea behind the lightweight markup
+      languages such as AsciiDoc. With AsciiDoc, the bulk of document is the
+      content, embellished with subtle and intuitive semantic notations. AsciiDoc
+      is designed for humans, yet machine parsable. It can even meet the most
+      advanced publishing requirements.
+
+      Come learn how to write documentation with pleasure using AsciiDoc and still
+      be able to produce beautiful HTML, DocBook and PDF documentsand even
+      presentation slides! Like this one.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://therichwebexperience.com/conference/fort_lauderdale/2012/11/session?id=26856).
+
+  - summary: Bake your HTML5 website with Awestruct, publish with git
+    speaker: Dan Allen and Jason Porter
+    start: November 30, 2012 09:00 EST
+    end: November 30, 2012 10:30 EST
+    description: |-
+      Static is the new dynamic. Learn how to use Awestruct to build and publish
+      static websites and leverage the ever increasing capabilities of HTML5-based
+      browsers to make your site more dynamic than ever before.
+
+      Static is the new dynamic. With the ever increasing capabilities of
+      HTML5-based browsers, we can give the server a rest and put security
+      problems behind us by publishing static HTML5 documents and shifting the
+      dynamic behavior to the client. Not only does that let you blog out of
+      static hosting sites like github pages, it also means you can put more
+      processing power into the author tools.
+
+      In this session, you'll be introduced to Awestruct, a Ruby-based tool for
+      building and publishing static websites. You'll discover how you can
+      leverage a wide range of lightweight markup languages such as HAML, Textile,
+      Markdown, SASS and CoffeeScript to keep your source terse and DRY. We'll use
+      Awestruct's extension pipeline to setup a blog, add comments to your site or
+      add analytic tracking scripts to your pages, then build and publish the site
+      to github pages in a single command. Just because the pages are static
+      doesn't mean they can't be dynamic too.
+
+      For more information, including speaker bios, [visit the conference
+      website](https://therichwebexperience.com/conference/fort_lauderdale/2012/11/session?id=26960).
+
+- name: FOSSa
+  location: Lille, France
+  start: December 04, 2012 12:00 CET
+  end: December 08, 2012 12:00 CET
+  summary: |-
+    [FOSSa](http://fossa.inria.fr/en), Free and Open Source Software in
+    Academia, is an annual conference bringing experts in Free and Open Source
+    Software from industry and the community together with prominent members of
+    academia, to learn from each other, and to put Open Source values back at
+    the heart of academic research.
+  timezone: CET
+  talks:
+
+  - summary: Open Source Communities and the Cloud
+    speaker: Dave Neary
+    start: December 06, 2012 14:30 CET
+    end: December 06, 2012 15:00 CET
+    description: |-
+      Infrastructure as a Service, Platform as a Service, Software as a Service...
+      in the world of the cloud, the user has less and less visibility into what
+      is happening under the covers of his computing environment.
+
+      What does it mean to be Free Software if you are not distributing any
+      software? What is the nature of communities for cloud projects like
+      OpenStack? And in a cloudy world, can people still hope to control their
+      computing environments? Will the cloud kill Free Software?
+
+      For more information, including speaker bio, [visit the conference
+      website](http://fossa.inria.fr/en/archives/2996).
+2013:
+
+- name: oVirt Workshop at NetApp
+  location: Sunnyvale, California, US
+  start: January 22, 2013 12:00 UTC
+  end: January 24, 2013 12:00 UTC
+  summary: |-
+    oVirt workshops focus on introducing the project, the technologies inside of
+    the sub-projects, and holding technical breakouts for learning and hacking.
+    oVirt Workshops are a community effort and are held at both industry events
+    and the campuses of oVirt board member companies. For more information on
+    this free event, including registration details, please visit the event page
+    on the oVirt web site at
+    [http://www.ovirt.org/NetApp\_Workshop\_January\_2013](http://www.ovirt.org/NetApp_Workshop_January_2013).
+
+- name: linux.conf.au
+  location: Canberra, Australia
+  start: January 28, 2013 12:00 UTC
+  end: February 01, 2013 12:00 UTC
+  summary: |-
+    Jeff Darcy and Dan Macpherson will both be presenting at the Cloud, Storage
+    and High Availability Miniconf. Jeff will be speaking on GlusterFS and Dan
+    will discuss Aeolous and oVirt. Katie Miller will be presenting at the Open
+    Programming and Haecksen Miniconfs. At the Open Programming event Katie will
+    be discussing everyday applications of functional programming principles and
+    at Haecksen she will speak about her experiences using open source tools
+    such as OpenShift to teach girls about FOSS. Full details are available at
+    [http://www.linux.conf.au/programme/schedule](http://www.linux.conf.au/programme/schedule).
+
+    For more details on linux.conf.au, visit the conference website at
+    [https://lca2013.linux.org.au/](https://lca2013.linux.org.au/).
